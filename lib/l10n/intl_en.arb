@@ -1,0 +1,17 @@
+{
+    "welcomeBack":"Welcome back",
+    "yourDetailsLogin":"Register your details to be able to log in",
+    "userName":"User Name" ,
+    "password":"Password",
+    "forgotPassword":"Forgot your password ?",
+    "login":"Login",
+    "createAccount":"Create an account",
+    "chooseLanguage": "Choose Language",
+    "usernameRequired": "Please enter your username",
+    "passwordRequired": "Please enter your password",
+    "emailOrPhone": "Email or phone number",
+    "contactRequired": "Please enter your email or phone number",
+    "registrationDescription": "Enter your details to create an account",
+    "englishLanguage": "English",
+    "arabicLanguage": "Arabic"
+}

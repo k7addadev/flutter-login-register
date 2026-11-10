@@ -1,0 +1,18 @@
+{
+    "welcomeBack":"مرحبا بعودتك",
+    "yourDetailsLogin":"سجّل بياناتك لتتمكن من تسجيل الدخول",
+    "userName":"اسم المستخدم",
+    "password":"كلمة المرور",
+    "forgotPassword":"نسيت كلمة السر؟",
+    "login":"تسجيل الدخول",
+    "createAccount":"إنشاء حساب",
+    "chooseLanguage": "اختر اللغة",
+    "usernameRequired": "الرجاء إدخال اسم المستخدم",
+    "passwordRequired": "الرجاء إدخال كلمة المرور",
+    "emailOrPhone": "الإيميل أو رقم الهاتف",
+    "contactRequired": "الرجاء إدخال البريد الإلكتروني أو رقم الهاتف",
+    "registrationDescription": "أدخل بياناتك لإنشاء حساب جديد",
+    "englishLanguage": "الإنجليزية",
+    "arabicLanguage": "العربية"
+
+}
